@@ -1,8 +1,0 @@
-#+title: Ross A. Baker
-#+options: toc:nil
-
-- Contacts: [[mailto:ross@rossabaker.com][Email]], [[https://social.rossabaker.com/@ross][Fediverse]], [[https://matrix.to/#/@ross:rossabaker.com][Matrix]]
-- Verification: [[https://keyoxide.org/ross%40rossabaker.com][Keyoxide]]
-- Encryption: [[https://rossabaker.com/.well-known/openpgpkey/hu/eimhw3om3jynrs7fo7r7rrssmt1o4yxp][GPG public key]]
-- More code: [[https://git.rossabaker.com/ross][Forgejo]], [[https://paste.rossabaker.com/ross][Opengist]], [[https://codeberg.org/rossabaker][Codeberg]]
-- More ramblings: [[https://rossabaker.com/][Website]]
