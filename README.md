@@ -25,6 +25,10 @@ source projects I have associated with.  You are welcome to
 > Crawlers that ignore robots.txt may receive a [colorless, odorless, 
 > and deadly poisonous][iocaine] response.
 
+## Opengist
+
+Gists are now self-hosted on <dfn>[Opengist][self-hosted-opengist]</dfn>.
+
 ## Vestiges
 
 This GitHub account remains active for work and for open source that
@@ -36,3 +40,4 @@ is not mine to move.
 [give-up-github]: https://sfconservancy.org/GiveUpGitHub/
 [iocaine]: https://iocaine.madhouse-project.org/
 [self-hosted-forgejo]: https://git.rossabaker.com/
+[self-hosted-opengist]: https://paste.rossabaker.com/
