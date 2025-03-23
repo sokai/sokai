@@ -1,10 +1,9 @@
 # Giving up GitHub
 
 I believe open source communities should prefer open source tools.  I
-also believe that open source maintainers need protection from AI
-slop, while GitHub is actively building tools that are drowning us in
-it.  Therefore, I am [giving up GitHub][give-up-github] for personal
-use.
+also believe that maintainers need protection from AI slop, while
+GitHub actively builds tools that are drowning us in it.  Therefore, I
+am [giving up GitHub][give-up-github] for personal use.
 
 ## Codeberg
 
